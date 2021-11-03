@@ -1,0 +1,67 @@
+{
+  "branch": null,
+  "commit": null,
+  "built": "Wed Nov 03 2021 23:18:18 GMT+0000 (Coordinated Universal Time)",
+  "files": [
+    {
+      "path": "/index.html",
+      "sha": "16284550522ad57208cfcfb0579301d501412fb7"
+    },
+    {
+      "path": "/static/css/main.css",
+      "sha": "03896e41f1fdaa557e6536e002e92c59162340e7"
+    },
+    {
+      "path": "/static/css/partials/button.css",
+      "sha": "d507db85a31c6b414343d2afd37b0b979bc137a4"
+    },
+    {
+      "path": "/static/css/partials/columns-50x50-simple.css",
+      "sha": "e67cba696d7085797ad559692f029c3713e3b082"
+    },
+    {
+      "path": "/static/css/partials/footer.css",
+      "sha": "66168b7fdfb9557f036f0718b7057698902af32d"
+    },
+    {
+      "path": "/static/css/partials/header.css",
+      "sha": "07e745183621329de25f8b143fb18474b53d9b04"
+    },
+    {
+      "path": "/static/css/partials/hero.css",
+      "sha": "b5c80c87e0db7985dbd299f6d384a8654b9d5ecd"
+    },
+    {
+      "path": "/static/css/partials/promo-banner.css",
+      "sha": "ab963965e3e8463d0649c504b8fc46df8baa236f"
+    },
+    {
+      "path": "/static/css/partials/simple-intro.css",
+      "sha": "4b32613c690e480403d30dffff0f48bfcfae88e3"
+    },
+    {
+      "path": "/static/css/partials/spacer.css",
+      "sha": "5d234b4fad667db8aed7fbdfcce551e32ee71bb8"
+    },
+    {
+      "path": "/static/js/main.min.js",
+      "sha": "d01e4d47b972fdc89cc9218ed1a61e01a9be45a6"
+    },
+    {
+      "path": "/static/placeholder/16x9.svg",
+      "sha": "39f084df5ae8c0636feee14eaed73bb562cf3f50"
+    },
+    {
+      "path": "/static/placeholder/1x1.svg",
+      "sha": "877a7e4c017ffea6e4c8549869e7a602ff75c6d2"
+    },
+    {
+      "path": "/static/placeholder/9x16.svg",
+      "sha": "07bd21fa55a77ccee7070495e674fdd9b3ef1dcf"
+    },
+    {
+      "path": "/static/placeholder/7x3.svg",
+      "sha": "6dbca84fc3d5d8133bd86c04442225f046661dd9"
+    }
+  ]
+}
